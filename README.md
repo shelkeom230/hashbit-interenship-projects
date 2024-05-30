@@ -4,3 +4,6 @@
 
 # Project 2
 [solutions here](https://github.com/shelkeom230/hashbit-interenship-projects/blob/master/2%20mcq%20questions/solutions.md)
+
+# Project 3
+[solutions here](https://github.com/shelkeom230/hashbit-interenship-projects/tree/master/task%203%20questions)
