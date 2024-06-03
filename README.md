@@ -11,5 +11,5 @@
 # Assignment 4
 [solutions here](https://github.com/shelkeom230/hashbit-interenship-projects/tree/master/Assignment%204)
 
-# Assignment 5
-[solutions here]()
+# Modal
+[view assignment](https://github.com/shelkeom230/hashbit-interenship-projects/tree/master/modal)
