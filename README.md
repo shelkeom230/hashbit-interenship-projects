@@ -36,3 +36,6 @@
 
 # React Assignment 6 - React - To-Do App
 [solutions here](https://codesandbox.io/p/sandbox/react-to-do-list-app-wm95jn)
+
+# Assignment 7 - movie booking website 
+[solutions here](https://codesandbox.io/p/sandbox/movie-booking-landing-page-9kfpqy)
