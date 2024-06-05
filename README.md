@@ -39,3 +39,6 @@
 
 # Assignment 7 - movie booking website 
 [solutions here](https://codesandbox.io/p/sandbox/movie-booking-landing-page-9kfpqy)
+
+![image](https://github.com/shelkeom230/hashbit-interenship-projects/assets/104075298/412a811e-a7d0-4310-9394-e2cdc59dff7d)
+
