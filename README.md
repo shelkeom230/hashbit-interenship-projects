@@ -11,13 +11,16 @@
 # Assignment 4
 [solutions here](https://github.com/shelkeom230/hashbit-interenship-projects/tree/master/Assignment%204)
 
+# Assignment 6 
+[solutions here](https://jsfiddle.net/OmkarShelke2005/5y2noq98/4/)
+
 # Assignment 7 - Modal
 [view assignment](https://github.com/shelkeom230/hashbit-interenship-projects/tree/master/modal)
 
 ![image](https://github.com/shelkeom230/hashbit-interenship-projects/assets/104075298/0393a320-f4b8-4786-99a2-e35f8746fe6c)
 
 # Assignment 8 - IPL Points Table - API Call and Display
-[solutions here]()
+[solutions here](https://jsfiddle.net/OmkarShelke2005/s8cvfaep/23/)
 
 # React Assignment 1 - Calculator
 [solutions here](https://codesandbox.io/p/sandbox/react-calculator-jqd98s?file=%2Fsrc%2Findex.js%3A6%2C46)
@@ -29,10 +32,7 @@
 [solutions here](https://codesandbox.io/p/sandbox/react-loksabha-survey-form-lrtcw7)
 
 # React Assignment 4 - Copy of Online Test 1
-[solutions here]()
-
-# React Assignment 5 - Placeholder for Online Test
-[solutions here]()
+[solutions here](https://codesandbox.io/p/sandbox/movie-booking-landing-page-9kfpqy)
 
 # React Assignment 6 - React - To-Do App
 [solutions here](https://codesandbox.io/p/sandbox/react-to-do-list-app-wm95jn)
